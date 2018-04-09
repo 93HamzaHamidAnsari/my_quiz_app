@@ -1,0 +1,39 @@
+D:\db\uni\time_countdown\time_countdown\bin\Debug\time_countdown.exe.config
+D:\db\uni\time_countdown\time_countdown\bin\Debug\time_countdown.exe
+D:\db\uni\time_countdown\time_countdown\bin\Debug\time_countdown.pdb
+D:\db\uni\time_countdown\time_countdown\obj\Debug\time_countdown.csprojResolveAssemblyReference.cache
+D:\db\uni\time_countdown\time_countdown\obj\Debug\time_countdown.Form1.resources
+D:\db\uni\time_countdown\time_countdown\obj\Debug\time_countdown.Properties.Resources.resources
+D:\db\uni\time_countdown\time_countdown\obj\Debug\time_countdown.csproj.GenerateResource.Cache
+D:\db\uni\time_countdown\time_countdown\obj\Debug\time_countdown.exe
+D:\db\uni\time_countdown\time_countdown\obj\Debug\time_countdown.pdb
+D:\db\uni\time_countdown\time_countdown\obj\Debug\time_countdown.login.resources
+D:\db\uni\time_countdown\time_countdown\obj\Debug\time_countdown.result.resources
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\bin\Debug\time_countdown.exe.config
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\obj\Debug\time_countdown.exe
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\obj\Debug\time_countdown.pdb
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\bin\Debug\time_countdown.exe
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\bin\Debug\time_countdown.pdb
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\obj\Debug\time_countdown.csprojResolveAssemblyReference.cache
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\obj\Debug\time_countdown.Form1.resources
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\obj\Debug\time_countdown.login.resources
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\obj\Debug\time_countdown.Properties.Resources.resources
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\obj\Debug\time_countdown.result.resources
+C:\Users\Hamza Hamid\Desktop\uni\time_countdown\time_countdown\obj\Debug\time_countdown.csproj.GenerateResource.Cache
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\bin\Debug\time_countdown.exe.config
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.exe
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.pdb
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\bin\Debug\time_countdown.exe
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\bin\Debug\time_countdown.pdb
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.csprojResolveAssemblyReference.cache
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.Form1.resources
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.login.resources
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.Properties.Resources.resources
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.result.resources
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.csproj.GenerateResource.Cache
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.signu.resources
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.Test_Instruction.resources
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.update_user.resources
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.user_detail.resources
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.we.resources
+C:\Users\Minions\Documents\Visual Studio 2015\Projects\uni\time_countdown\time_countdown\obj\Debug\time_countdown.admin.resources
